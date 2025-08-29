@@ -41,6 +41,10 @@ Development of a simple **4-bit CPU** that currently lacks many functions.
 
 ---
 
+## 🖥️ Lab 6 - VGA Timer
+This is just the timing files for VGA, so that I can pull them whenever I am using VGA
+There are two sets, each of that are slightly different, but both work.
+
 ## 📝 Lab 6 – Memory Test  
 A **16-bit memory space** project, tested for use in larger designs.  
 
