@@ -2,7 +2,8 @@
 *Made by Will Taylor*  
 
 Each of these labs is a small project to practice Verilog and test ideas for future implementations.  
-They are **not in any particular order. I just uploaded them here after finishing, so I can access them on other computers.    
+They are **not in any particular order. I just uploaded them here after finishing, so I can access them on other computers.  
+I also keep it organized with emojis, which is pretty awesome.  
 
 ---
 
