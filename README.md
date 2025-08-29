@@ -1,4 +1,8 @@
-# Made by Will Taylor. These are not in any sort of order, but are just here for me to come back to.
+# Made by Will Taylor. 
+
+### Each of these labs is just a small project to practice Verilog and work on ideas for projects before implementation. Note that these are not an any order and I just throw them here after I am done working so that
+I can work on them with other computers if needed.
+
 ## lab1
 This lab is called Mustang Lights, and what this does is it connects to a monitor using VGA and displays the turn signals for
 An old Mustang car.
