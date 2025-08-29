@@ -1,4 +1,4 @@
-# 3700_will_taylor
+# Made by Will Taylor. These are not in any sort of order, but are just here for me to come back to.
 ## lab1
 This lab is called Mustang Lights, and what this does is it connects to a monitor using VGA and displays the turn signals for
 An old Mustang car. The code in here is just with the lights, but VGA is in another repo to use with this or anything else you
